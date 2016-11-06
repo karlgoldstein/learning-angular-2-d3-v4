@@ -1,0 +1,10 @@
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 2px;
+}
+svg {
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+}
